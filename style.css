@@ -11,8 +11,15 @@
 .header{
     background-color:wheat;
     height: 120px;
+    padding: 10px 0px 0px 10px;
 
 
+}
+.logo{
+    width: 160px;
+    height: 100px;
+    background-color: blue;
+    
 }
 .navbar{
     background-color: yellowgreen;
